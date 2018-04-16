@@ -4,7 +4,7 @@ pixel art maker allows users to create a grid and the abillity to manipulate the
 
 ## Getting Started
 
-If you want to challenge your self with this project just download the all of the files and delete the JS. The challege is in createing your own javascript.
+If you want to challenge your self with this project just download all of the files and delete the JS. The challege is solely based on your javascript.
 
 ### Prerequisites
 
@@ -13,10 +13,6 @@ Just need a popular web browser with dev tools and a code editor.
 ### Installing
 
 Just need the js,css,and index files
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ## Built With
 
